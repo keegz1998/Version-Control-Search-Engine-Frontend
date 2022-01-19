@@ -35,7 +35,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Screenshot](product-screenshot.PNG)
+![Screenshot](project-screenshot.PNG)
 
 
 This project is the frontend for a web application that allows the user to search for other users on 3 version control websites (Github, GitLab and BitBucket). The project is using React JS as the library, Javascript for logic and HTML5/CSS for the structure and styling.
